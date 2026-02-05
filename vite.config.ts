@@ -11,6 +11,9 @@ export default defineConfig(({ mode }) => ({
     hmr: {
       overlay: false,
     },
+    allowedHosts: [
+      'pruthviraj-folio-sparkle.onrender.com' // Add your Render host here
+    ],
   },
   plugins: [react(), mode === "development" && componentTagger()].filter(Boolean),
   resolve: {
