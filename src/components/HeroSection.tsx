@@ -132,7 +132,7 @@ export const HeroSection = () => {
                 <Github className="h-5 w-5" />
               </a>
               <a
-                href="https://linkedin.com/in/pruthviraj-gaikwad"
+                href="https://www.linkedin.com/in/pruthvi-gaikwad"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded-full bg-secondary/50 hover:bg-primary/20 hover:text-primary border border-border hover:border-primary/50 transition-all duration-300"
