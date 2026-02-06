@@ -9,7 +9,7 @@ const socialLinks = [
   {
     icon: Linkedin,
     label: "LinkedIn",
-    href: "https://linkedin.com/in/pruthviraj-gaikwad",
+    href: "https://www.linkedin.com/in/pruthvi-gaikwad",
   },
   {
     icon: Mail,
